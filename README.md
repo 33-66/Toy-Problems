@@ -1,11 +1,11 @@
-`#My First Project`
-`##Introduction`
-Welcome to my first project it is a project mainly involving Java Script solving three challenges .This to help any developer in this three challenges.I hope to add more challenges in future.
+# My First Project
+## Introduction
+Welcome to my first project it is a project mainly involving Java Script  .This to help any developer in this three challenges.I hope to add more challenges in future.
 Let us start with;Creating a repository from github account ;create a folder with three files for each solution
 As we start of with this challenge.We will start by navigating to promp sync https://www.npmjs.com/package/prompt-sync install 
 npm i prompt-sync then run it in your terminal to install prompt.then we can start of with our first challenge.
 
-`###Student Grade Generator`
+### Student Grade Generator
 In this challenge we  are required to have a function that prompt the user to input student marks.Whereby the input should be  from 0-100 .The grade are when u have an A = greaater than 79 ,B = 60-79,C=59-49, D 40-49 ,E =less than 40,
 *We start off by creating a js file e.g student.js 
 *Then we crate a function e.g `studentGreading()`
@@ -38,7 +38,7 @@ In this challenge we  are required to have a function that prompt the user to in
     *if u wish to call the function just run the function
     `studentGrading()`
 
-`####Speed Detector`
+#### Speed Detector
 We are moving on quite well.
 * for our second challenge make another file  like `speed.js` inside our folder
 *we are required ;
