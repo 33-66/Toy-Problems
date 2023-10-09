@@ -69,3 +69,5 @@ we will have to use the function `Math.floor()` to round off to the smallest num
         `console.log(`points:${points}` )`
     ``}` returns number of points if they are less than 12
 `}`
+##### License
+This project is licensed under the(MIT license)[LICENSE]-see the (LICENSE)[LICENSE] file for more results.
