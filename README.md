@@ -1,9 +1,7 @@
 `#My First Project`
 `##Introduction`
-Welcome to my first project it is a project mainly involving Java Script solving three challenges .This to help any developer in this three challenges.I hope to add more challenges in future.
-Let us start with;Creating a repository from github account ;create a folder with three files for each solution
-As we start of with this challenge.We will start by navigating to promp sync https://www.npmjs.com/package/prompt-sync install 
-npm i prompt-sync then run it in your terminal to install prompt.then we can start of with our first challenge.
+Welcome to my first project it is a project mainly involving Java Script .This to help any developer in this three challenges.I hope to add more challenges in future. Let us start with;Creating a repository from github account ;create a folder with three files for each solution As we start of with this challenge.We will start by navigating to promp sync https://www.npmjs.com/package/prompt-sync install npm i prompt-sync then run it in your terminal to install prompt.then we can start of with our first challenge.
+
 
 `###Student Grade Generator`
 In this challenge we  are required to have a function that prompt the user to input student marks.Whereby the input should be  from 0-100 .The grade are when u have an A = greaater than 79 ,B = 60-79,C=59-49, D 40-49 ,E =less than 40,
@@ -69,3 +67,14 @@ we will have to use the function `Math.floor()` to round off to the smallest num
         `console.log(`points:${points}` )`
     ``}` returns number of points if they are less than 12
 `}`
+
+`#####license`
+MIT License
+
+Copyright © 2023 Simon Nganga
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
