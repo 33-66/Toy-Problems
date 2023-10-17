@@ -14,7 +14,7 @@ In this challenge we  are required to have a function that prompt the user to in
  *Now let us get input for the users
  we create
  `let marks = prompt('input your marks: ')`,
- *Still in the function we use conditional statements for grading 
+ *Still in the function we use conditional statements for grading g
  that is `if`.`else if`.`else`. 
  `if(marks > 79 && marks <= 100){`
      `   console.log('Your Grade is A');`
